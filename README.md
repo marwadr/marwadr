@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Étudiante en troisième année de Licence Informatique passionnée par la gestion et l’analyse des données. Forte d’une bonne maîtrise des outils de data science, des bases de données et de la programmation, je souhaite évoluer vers un poste de Consultante BI . Dynamique, curieuse et analytique, j’aspire à accompagner les entreprises dans l’exploitation de leurs données pour une meilleure prise de décision.<br>
+<br><br>Étudiante passionnée par la gestion et l’analyse des données. Forte d’une bonne maîtrise des outils de data science, des bases de données et de la programmation, je souhaite évoluer vers un poste de Consultante BI . Dynamique, curieuse et analytique, j’aspire à accompagner les entreprises dans l’exploitation de leurs données pour une meilleure prise de décision.<br>
 
 
 # 💻 Tech Stack:
