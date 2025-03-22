@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br><br>Étudiante passionnée par la gestion et l’analyse des données. Forte d’une bonne maîtrise des outils de data science, des bases de données et de la programmation, je souhaite évoluer vers un poste de Consultante BI . Dynamique, curieuse et analytique, j’aspire à accompagner les entreprises dans l’exploitation de leurs données pour une meilleure prise de décision.<br>
 
 
@@ -12,4 +12,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=marwadr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
