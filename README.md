@@ -1,7 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Drihem Marwa 👋
 
 🎓 **Étudiante passionnée par la gestion et l’analyse des données**  
-🚀 **Aspiring BI Consultant** | 💡 **Data Enthusiast**  
 
 ---
 
@@ -11,7 +10,7 @@ I am a dynamic and curious student with a strong passion for data management and
 - 🔍 **What I Do**: Analyze data, build dashboards, and create actionable insights.  
 - 🌱 **Currently Learning**: Advanced BI tools and data engineering techniques.  
 - 💬 **Ask Me About**: Data visualization, Python, SQL, or anything data-related!  
-- 📫 **How to Reach Me**: [Your Email] | [LinkedIn Profile]  
+   
 
 ---
 
